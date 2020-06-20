@@ -73,8 +73,7 @@ module.exports = {
         link: "/about/",
       }
     ],
-    docsRepo: "tamersunion/tamersunion.github.io",
-    docsBranch: "source",
+    docsRepo: "tamersunion/docs",
     docsDir: "docs",
     editLinks: true,
   }
