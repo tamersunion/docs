@@ -36,7 +36,6 @@ module.exports = {
     sidebar: "auto",
     nextLinks: true,
     prevLinks: true,
-    lastUpdated: "最后更新",
     sidebar: {
       "/specification/":["", "recording", "translation", "timeline", "stylesheet", "fileformat"],
       "/archive-guide/":["", "login", "files", "text", "office", "mutimedia", "sharing", "settings", "apps", "upload"],
