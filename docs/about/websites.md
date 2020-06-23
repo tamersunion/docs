@@ -33,4 +33,4 @@ AlphaSSL、Cloudflare
 * 弹幕服务
 服务使用[Danmu.Server](https://github.com/u2sb/Danmu.Server)构建。
 * Tracker
-服务使用[bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker)构建。
+服务使用[chihaya](https://github.com/chihaya/chihaya)构建。
