@@ -18,7 +18,7 @@ There is nothing to remove, it's just a tracker. We don't have any torrent files
 Don't expect perfect uptime. If the tracker is broken, it will be fixed. But we don't make service level promises.
 
 ## How do I use it?
-This tracker solely responds via default HTTPS port (443) and HTTPS protocol. You can create a torrent and add this tracker url. You can also add this tracker url on your bittorrent client. In addition, this tracker is protected by Cloudflare CDN. Please use our DNS name (tracker.tamersunion.org) instead of IP address. the IP address resolved by DNS name is provided by Cloudfare CDN. You can not use it directly.
+This tracker solely responds via default HTTPS port (443) and HTTPS protocol. You can create a torrent and add this tracker url. You can also add this tracker url on your bittorrent client. In addition, this tracker is protected by Cloudflare CDN. Please use our DNS name (tracker.tamersunion.org) instead of IP address. the IP address resolved by DNS name is provided by Cloudflare CDN. You can not use it directly.
 
 ## 什么是tracker.tamersunion.org？
 这是一个公共BitTorrent追踪器，使用 [Chihaya](https://github.com/chihaya/chihaya) 构建。它主要服务于驯兽师联盟的种子，但也能服务于任何公共种子。
@@ -33,4 +33,4 @@ This tracker solely responds via default HTTPS port (443) and HTTPS protocol. Yo
 不要期望完美的正常运行时间。如果追踪器故障，它将会被修复。但我们不做任何服务水平承诺。
 
 ## 如何使用？
-追踪器仅通过默认HTTPS端口（443）和HTTPS协议响应。你可以创建一个种子并添加追踪器的URL，或者在你的BitTorrent客户端上添加追踪器的URL。此外，追踪器被Cloudfare CDN所保护，请使用DNS名称（tracker.tamersunion.org）而非IP地址连接，此DNS名称解析的IP地址由Cloudfare提供，你不能直接使用该IP地址。
+追踪器仅通过默认HTTPS端口（443）和HTTPS协议响应。你可以创建一个种子并添加追踪器的URL，或者在你的BitTorrent客户端上添加追踪器的URL。此外，追踪器被Cloudflare CDN所保护，请使用DNS名称（tracker.tamersunion.org）而非IP地址连接，此DNS名称解析的IP地址由Cloudflare提供，你不能直接使用该IP地址。
