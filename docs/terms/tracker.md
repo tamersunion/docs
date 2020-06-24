@@ -6,7 +6,7 @@ sidebarDepth: 1
 # Tracker服务协议
 
 ## What is tracker.tamersunion.org？
-This is a public bittorrent tracker using [Chihaya](https://github.com/chihaya/chihaya). It mainly serves torrents of Tamers Union. But it can also serve any public torrent. It Support IPV4 and IPV6
+This is a public bittorrent tracker using [Chihaya](https://github.com/chihaya/chihaya). It mainly serves torrents of Tamers Union. But it can also serve any public torrent. It support IPV4 and IPV6.
 
 ## Do you keep logs?
 We don't keep logs when tracker is running normally.
@@ -15,7 +15,7 @@ We don't keep logs when tracker is running normally.
 There is nothing to remove, it's just a tracker. We don't have any torrent files. This tracker does not store any file content. So do not send any DMCA notice. This tracker does not allow for the blacklisting (or whitelisting) of hashes.
 
 ## SLA / Uptime
-Don’t expect perfect uptime. If the tracker is broken, it will be fixed. But we don't make service level promises.
+Don't expect perfect uptime. If the tracker is broken, it will be fixed. But we don't make service level promises.
 
 ## How do I use it?
 This tracker solely responds via default HTTPS port (443) and HTTPS protocol. You can create a torrent and add this tracker url. You can also add this tracker url on your bittorrent client. In addition, this tracker is protected by cloudflare CDN. Please use our DNS name (tracker.tamersunion.org) instead of IP Address. the IP Address resolved by DNS name is provided by Cloudfare CDN. You can not use it directly.
