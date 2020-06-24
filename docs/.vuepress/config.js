@@ -73,6 +73,7 @@ module.exports = {
       }
     ],
     docsRepo: "tamersunion/docs",
+    docsBranch: "source",
     docsDir: "docs",
     editLinks: true,
   }
