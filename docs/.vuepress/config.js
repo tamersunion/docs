@@ -4,9 +4,10 @@ module.exports = {
   title: "驯兽师联盟文档库",
   description: "Tamers Union Docs",
   theme: 'antdocs',
-  markdown: {
-    lineNumbers: true,
-  },
+  theme: 'vuepress-theme-succinct',
+  globalUIComponents: [
+    'ThemeManager'
+  ],
   head: [
     [
       "link",
