@@ -76,6 +76,10 @@ module.exports = {
     docsRepo: "tamersunion/docs",
     docsBranch: "source",
     docsDir: "docs",
+    algolia: {
+      apiKey: 'b969c0a55a9853e41e69de85c6e18a50',
+      indexName: 'tamersunion'
+    },
     editLinks: true,
   }
 };
