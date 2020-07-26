@@ -41,6 +41,9 @@ sidebarDepth: 1
 
 <dplayer src="https://gss3.baidu.com/6LZ0ej3k1Qd3ote6lo7D0j9wehsv/tieba-movideo/40876776_82e491cbd35d4189b633b54c94b7d322_f6b9d8cbd0e5.mp4" danmu-id="A76878382B7DA6EEFF60D592D772D27D"/>
 
+17. 「皆さん」翻译为「各位」，「皆」翻译为「大家」。
+
+
 ## 注释
 翻译、校对或者听写之中如果有不懂或者不确定的地方，一般用 **\*** 或 **#** 标注。
 > 特别注意：请不要使用全角字符（例：**＊** **＃** ）。
