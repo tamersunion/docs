@@ -37,12 +37,25 @@ sidebarDepth: 1
 
 15. 口癖一般不翻译。
 
-16. 请规范使用「的」「地」「得」，示例：这是一个红色的苹果。 天渐渐地冷了。 我是身经百战，见得多了。 具体请见下面视频。
+16. 「皆さん」翻译为「各位」，「皆」翻译为「大家」。
 
-<dplayer src="https://gss3.baidu.com/6LZ0ej3k1Qd3ote6lo7D0j9wehsv/tieba-movideo/40876776_82e491cbd35d4189b633b54c94b7d322_f6b9d8cbd0e5.mp4" danmu-id="A76878382B7DA6EEFF60D592D772D27D"/>
+17. 请规范使用「的」「地」「得」，示例：这是一个红色的苹果。 天渐渐地冷了。 我是身经百战，见得多了。 具体请见下面视频。
 
-17. 「皆さん」翻译为「各位」，「皆」翻译为「大家」。
-
+<d-player 
+    :options="{
+        video: {
+            url: 'https://gss3.baidu.com/6LZ0ej3k1Qd3ote6lo7D0j9wehsv/tieba-movideo/34792952_7208fbb31964557fe19661992573a971_aff18d1d4b18.mp4',
+            pic: 'https://www.tamersunion.net/wp-content/uploads/2020021017431776.png'
+        },
+        autoplay: false,
+        danmaku: {
+            user: 'tamers',
+            id: 'A76878382B7DA6EEFF60D592D772D27D',
+            bottom: '30%',
+            api: 'https://danmaku.tamersunion.net/api/danmu/dplayer/'
+        }
+    }"
+/>
 
 ## 注释
 翻译、校对或者听写之中如果有不懂或者不确定的地方，一般用 **\*** 或 **#** 标注。

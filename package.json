@@ -9,9 +9,8 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.0",
     "vuepress": "^1.4.0",
+    "vuepress-plugin-dplayer": "^1.0.0",
     "vuepress-theme-succinct": "^1.4.0"
   },
-  "dependencies": {
-    "dplayer": "^1.26.0"
-  }
+  "dependencies": {}
 }

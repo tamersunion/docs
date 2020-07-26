@@ -24,7 +24,10 @@ module.exports = {
       }
     }
   },
-  plugins: ["@vuepress/back-to-top"],
+  plugins: [
+    "@vuepress/back-to-top",
+    "dplayer"
+  ],
   locales: {
     "/": {
       lang: "zh-CN",
