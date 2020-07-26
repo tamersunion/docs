@@ -44,8 +44,8 @@ sidebarDepth: 1
 <d-player 
     :options="{
         video: {
-            url: 'https://gss3.baidu.com/6LZ0ej3k1Qd3ote6lo7D0j9wehsv/tieba-movideo/34792952_7208fbb31964557fe19661992573a971_aff18d1d4b18.mp4',
-            pic: 'https://www.tamersunion.net/wp-content/uploads/2020021017431776.png'
+            url: 'https://gss3.baidu.com/6LZ0ej3k1Qd3ote6lo7D0j9wehsv/tieba-movideo/19410645_b33cd974511b0f5004962113e1550511_2ee4b9ef09fa.mp4',
+            pic: 'https://static.tamersunion.net/wp-content/uploads/2020072617501412.jpg'
         },
         autoplay: false,
         danmaku: {
