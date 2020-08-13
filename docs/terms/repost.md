@@ -10,9 +10,9 @@ sidebarDepth: 1
 
 * 本组字幕作品默认适用于知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议（Creative Common BY-NC-ND 4.0），但发布页有特别注明时以发布页许可说明为准。
 * 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议（Creative Common BY-NC-ND 4.0）原本及中文译本如下。发生争议时，以英文原本为准。
- - [英文原本](https://creativecommons.org/licenses/by-nc-nd/4.0/)
- - [简体中文译本](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
- - [繁体中文译本](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)
+  - [英文原本](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+  - [简体中文译本](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+  - [繁体中文译本](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh_TW)
 * 根据许可协议说明，不得将本组作品用于一切商业目的（包括但不限于将作品用于出售、出租、收费放映、商业用二次创作发布等）。
 * 根据许可协议说明，转载需要署名，因此请注明制作组（驯兽师联盟以及共同参与制作的其他组织），本组已在字幕内标注，仅需在转载时在标题、正文或额外的描述文本中提及即可。请勿删除本组在字幕内部标注的制作人员信息。
 * 根据许可协议说明，您在转载时不得设置限制他人转载的条文或协议。
