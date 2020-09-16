@@ -41,7 +41,7 @@ module.exports = {
     nextLinks: true,
     prevLinks: true,
     sidebar: {
-      "/specification/":["", "recording", "translation", "timeline", "stylesheet", "fileformat"],
+      "/specification/":["", "da2020", "recording", "translation", "timeline", "stylesheet", "fileformat"],
       "/archive-guide/":["", "login", "files", "text", "office", "mutimedia", "sharing", "settings", "apps", "upload"],
       "/software-guide/":["", "asscode", "smartcutter", "utorrent", "qbittorrent", "certificate"],
       "/terms/": ["", "copyright", "contents", "repost", "tracker", "privacy"],
