@@ -67,7 +67,7 @@ Cookie信息一般保存在您的浏览器中，供我们向您提供更便捷�
 我们承诺未经同意不会将任何个人隐私信息分享给第三方。但我们可能会应您的授权或者请求向指定第三方提供您的个人信息。
 
 ### 站点监控
-我们为了对站点进行整体有效的监控，与友盟+站点统计共享了我们收集的部分数据，该数据仅限用于进行站点统计分析。友盟+统计系统的隐私政策为：[https://www.umeng.com/policy.html](https://www.umeng.com/policy.html)。
+我们为了对站点进行整体有效的监控，与51LA网站统计共享了我们收集的部分数据，该数据仅限用于进行站点统计分析。51LA网站统计的隐私政策为：[https://web.51.la/service/privacy](https://web.51.la/service/privacy)。
 
 ### 头像服务
 在您发表评论或者注册账号时，为了获取您在Gravatar预设的个人头像，我们将您的邮箱信息进行哈希匿名化处理后提供给Gravatar服务，并在确认您有预设个人头像的情况下获得Gravatar提供的您预设的头像链接作为您的头像，您的头像通常会被公开显示。Gravatar服务的隐私政策为：[https://automattic.com/privacy/](https://automattic.com/privacy/)。
@@ -114,7 +114,7 @@ Cookie信息一般保存在您的浏览器中，供我们向您提供更便捷�
 
 如您对本政策或其他相关事宜有疑问，请通过以下方式联系我们。
 
-* 主站点疑问咨询版块：[https://www.tamersunion.net/consult/](https://www.tamersunion.net/consult/)
+* 疑问咨询版块：[https://www.tamersunion.net/consult/](https://www.tamersunion.net/consult/)
 
 * 电子邮件地址：[support@tamersunion.net](mailto:support@tamersunion.net)
 
@@ -122,4 +122,4 @@ Cookie信息一般保存在您的浏览器中，供我们向您提供更便捷�
 
 我们会不时修订本隐私政策。未经您明确同意，我们不会减降您按照本隐私政策的规定所享有的权利。
 
-本隐私政策最后修订于2019年6月12日。
+本隐私政策最后修订于2020年11月24日。
