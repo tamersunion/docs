@@ -8,5 +8,4 @@ title: 协议条款
 - [内容声明](contents.md)
 - [使用与转载许可](repost.md)
 - [Tracker服务协议](tracker.md)
-- [弹幕服务协议](danmaku.md)（待完善）
-- [驯兽师联盟服务隐私政策](privacy.md)
+- [服务隐私政策](privacy.md)
