@@ -23,8 +23,7 @@ footer: © 2015-2020 驯兽师联盟
 - [内容声明](/terms/contents.md)
 - [使用与转载许可](/terms/repost.md)
 - [Tracker服务协议](/terms/tracker.md)
-- [弹幕服务协议](/terms/danmaku.md)（待完善）
-- [驯兽师联盟服务隐私政策](/terms/privacy.md)
+- [隐私政策](/terms/privacy.md)
 
 
 ## 关于我们
