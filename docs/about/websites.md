@@ -30,4 +30,4 @@ AlphaSSL、Cloudflare
 * 弹幕服务
 基于[Danmu.Server](https://github.com/u2sb/Danmu.Server)构建。
 * Tracker
-服务基于[Chihaya](https://github.com/chihaya/chihaya)构建。
+基于[Chihaya](https://github.com/chihaya/chihaya)构建。
