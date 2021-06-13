@@ -9,7 +9,7 @@ sidebarDepth: 1
 阿里云、腾讯云、华为云、网宿云、Sukura Internet、Oracle Cloud、CloudFlare
 
 ## 域名注册局　　　
-新网科技、Namecheap
+DNSPod、Namecheap
 
 ## 证书签发机构　　
 AlphaSSL、Cloudflare
